@@ -15,7 +15,8 @@
 ## 🚀 Cara Pakai
 
 ### Langkah-langkah
-1. Download Magic Chess Go Go dari [magicchessgogo.com](https://magicchessgogo.com/)
-2. Install Magic Chess Go Go, arahkan lokasi instalasi ke folder **MagicChessGoGo**
-3. Jalankan **MagicChessGG-Portable.exe** (Administrator jika diperlukan)
+1. Download Magic Chess Go Go Launcher dari [magicchessgogo.com](https://magicchessgogo.com/)
+2. Install Magic Chess Go Go Launcher, arahkan lokasi instalasi ke folder **MagicChessGoGo**
+3. Install Magic Chess Go Go, arahkan lokasi instalasi ke folder **MagicChessGoGo\MagicChessGoGo**
+4. Jalankan **MagicChessGG-Portable.exe** (Administrator jika diperlukan)
    - Pertama kali jalan di **Server** — registry akan di-export ke `_AppRegistry/`
